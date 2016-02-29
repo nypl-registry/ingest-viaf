@@ -1,0 +1,35 @@
+{
+  "name": "nypl-registry-ingest-viaf",
+  "version": "1.0.0",
+  "description": "Creates VIAF lookup table in the registry ingest database",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nypl-registry/ingest-viaf.git"
+  },
+  "keywords": [
+    "nypl-registry"
+  ],
+  "author": "matt miller <thisismattmiller@gmail.com> (http://twitter.com/thisismmiller)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nypl-registry/ingest-viaf/issues"
+  },
+  "dependencies": {
+    "cli-color": "^1.1.0",
+    "glob": "^7.0.0",
+    "highland": "^2.7.1",
+    "libxmljs": "^0.17.1",
+    "nypl-registry-utils-database": "nypl-registry/utils-database",
+    "nypl-registry-utils-normalize": "nypl-registry/utils-normalize",
+    "prompt": "^1.0.0"
+  },
+  "homepage": "https://github.com/nypl-registry/ingest-viaf",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.2.2"
+  }
+}

@@ -1,0 +1,6798 @@
+<VIAFCluster xmlns="http://viaf.org/viaf/terms#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:void="http://rdfs.org/ns/void#">
+	<viafID>27066713</viafID>
+	<foaf:Document rdf:about="http://viaf.org/viaf/27066713/">
+		<void:inDataset rdf:resource="http://viaf.org/viaf/data"/>
+		<foaf:primaryTopic rdf:resource="http://viaf.org/viaf/27066713"/>
+	</foaf:Document>
+	<nameType>Personal</nameType>
+	<sources>
+		<source nsid="0000021960">B2Q|0000021960</source>
+		<source nsid=".a10475400">BNC|a10475400</source>
+		<source nsid="XX915622">BNE|XX915622</source>
+		<source nsid="http://catalogue.bnf.fr/ark:/12148/cb119096371">BNF|11909637</source>
+		<source nsid="870979.68542790">DBC|87097968542790</source>
+		<source nsid="http://d-nb.info/gnd/118561561">DNB|118561561</source>
+		<source nsid="IT\ICCU\CFIV\003274">ICCU|CFIV003274</source>
+		<source nsid="000000012125127X">ISNI|000000012125127X</source>
+		<source nsid="500290917">JPG|500290917</source>
+		<source nsid="0013C6856">LAC|0013C6856</source>
+		<source nsid="n80036674">LC|n  80036674</source>
+		<source nsid="LNC10-000029496">LNB|LNC10-000029496</source>
+		<source nsid="vtls000355414">N6I|vtls000355414</source>
+		<source nsid="00445529">NDL|00445529</source>
+		<source nsid="jn19990004280">NKC|jn19990004280</source>
+		<source nsid="000036129069">NLA|000036129069</source>
+		<source nsid="000075334">NLI|000075334</source>
+		<source nsid="a11580884">NLP|a11580884</source>
+		<source nsid="000085384">NSK|000085384</source>
+		<source nsid="06825489X">NTA|06825489X</source>
+		<source nsid="vtls000349856">NUKAT|n  94204929</source>
+		<source nsid="118207">PTBNP|118207</source>
+		<source nsid="vtls000097908">RERO|vtls000097908</source>
+		<source nsid="193363">SELIBR|193363</source>
+		<source nsid="027325962">SUDOC|027325962</source>
+		<source nsid="Q160534">WKP|Q160534</source>
+		<source nsid="RU\NLR\AUTH\7714549">NLR|RU NLR AUTH 7714549</source>
+		<source nsid="KAC199634745">KRNLK|KAC199634745</source>
+	</sources>
+	<length>6702</length>
+	<mainHeadings>
+		<data>
+			<text>Kerouac, Jack, 1922-1969</text>
+			<sources>
+				<s>NLA</s>
+				<sid>NLA|000036129069</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>KRNLK</s>
+				<sid>KRNLK|KAC199634745</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+		</data>
+		<data>
+			<text>Kerouac, Jack</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>ICCU</s>
+				<sid>ICCU|CFIV003274</sid>
+				<s>DBC</s>
+				<sid>DBC|87097968542790</sid>
+			</sources>
+		</data>
+		<data>
+			<text>Jack Kerouac American writer</text>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</data>
+		<data>
+			<text>Керуак, Д. 1922-1969 Джек</text>
+			<sources>
+				<s>NLR</s>
+				<sid>NLR|RU NLR AUTH 7714549</sid>
+			</sources>
+		</data>
+		<data>
+			<text>קרואק, ג'ק, 1922-1969</text>
+			<sources>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+			</sources>
+		</data>
+		<data>
+			<text>Kerouac, Jack (American writer, 1922-1969)</text>
+			<sources>
+				<s>JPG</s>
+				<sid>JPG|500290917</sid>
+			</sources>
+		</data>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="100">
+				<subfield code="a">Jack Kerouac</subfield>
+				<subfield code="c">American writer</subfield>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+			<id>ISNI|000000012125127X</id>
+			<links>
+				<link>
+					<match type="suggested"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="viafid"/>BNE|XX915622</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="forced single date"/>NLP|a11580884</link>
+				<link>
+					<match type="forced single date"/>NLI|000075334</link>
+				<link>
+					<match type="forced single date"/>NLI|000075334</link>
+				<link>
+					<match type="suggested"/>NTA|06825489X</link>
+				<link>
+					<match type="viafid"/>NLA|000036129069</link>
+				<link>
+					<match type="forced single date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="viafid"/>SELIBR|193363</link>
+				<link>
+					<match type="viafid"/>NSK|000085384</link>
+				<link>
+					<match type="viafid"/>RERO|vtls000097908</link>
+				<link>
+					<match type="viafid"/>N6I|vtls000355414</link>
+				<link>
+					<match type="forced single date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="viafid"/>DBC|87097968542790</link>
+				<link>
+					<match type="suggested"/>WKP|Q160534</link>
+				<link>
+					<match type="viafid"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="forced single date"/>BNC|a10475400</link>
+				<link>
+					<match type="forced single date"/>NLR|RU NLR AUTH 7714549</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="forced single date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="suggested"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="forced single date"/>LC|n  80036674</link>
+				<link>
+					<match type="viafid"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="100">
+				<subfield code="a">Jack Kerouac</subfield>
+				<subfield code="c">American writer</subfield>
+				<subfield code="9">en</subfield>
+			</datafield>
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+			<id>WKP|Q160534</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="viafid"/>BNE|XX915622</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>PTBNP|118207</link>
+				<link>
+					<match type="viafid"/>NLP|a11580884</link>
+				<link>
+					<match type="viafid"/>NLI|000075334</link>
+				<link>
+					<match type="viafid"/>NLI|000075334</link>
+				<link>
+					<match type="suggested"/>NTA|06825489X</link>
+				<link>
+					<match type="viafid"/>NLA|000036129069</link>
+				<link>
+					<match type="viafid"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="viafid"/>SELIBR|193363</link>
+				<link>
+					<match type="viafid"/>NSK|000085384</link>
+				<link>
+					<match type="exact title"/>RERO|vtls000097908</link>
+				<link>
+					<match type="viafid"/>N6I|vtls000355414</link>
+				<link>
+					<match type="viafid"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="viafid"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="viafid"/>BNC|a10475400</link>
+				<link>
+					<match type="title"/>NLR|RU NLR AUTH 7714549</link>
+				<link>
+					<match type="suggested"/>NKC|jn19990004280</link>
+				<link>
+					<match type="suggested"/>NDL|00445529</link>
+				<link>
+					<match type="exact title"/>LAC|0013C6856</link>
+				<link>
+					<match type="viafid"/>JPG|500290917</link>
+				<link>
+					<match type="suggested"/>SUDOC|027325962</link>
+				<link>
+					<match type="viafid"/>B2Q|0000021960</link>
+				<link>
+					<match type="suggested"/>LC|n  80036674</link>
+				<link>
+					<match type="exact title"/>DNB|118561561</link>
+				<link>
+					<match type="suggested"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="UNIMARC" ind1=" " ind2="1" tag="200">
+				<subfield code="a">Kerouac</subfield>
+				<subfield code="b">, Jack</subfield>
+			</datafield>
+			<sources>
+				<s>ICCU</s>
+				<sid>ICCU|CFIV003274</sid>
+			</sources>
+			<id>ICCU|CFIV003274</id>
+			<links>
+				<link>
+					<match type="exact title"/>NTA|06825489X</link>
+				<link>
+					<match type="exact title"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="exact title"/>NDL|00445529</link>
+				<link>
+					<match type="exact title"/>BNE|XX915622</link>
+				<link>
+					<match type="exact title"/>WKP|Q160534</link>
+				<link>
+					<match type="exact title"/>LC|n  80036674</link>
+				<link>
+					<match type="exact title"/>PTBNP|118207</link>
+				<link>
+					<match type="exact title"/>SUDOC|027325962</link>
+				<link>
+					<match type="exact title"/>SELIBR|193363</link>
+				<link>
+					<match type="exact title"/>BNC|a10475400</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="exact title"/>RERO|vtls000097908</link>
+				<link>
+					<match type="exact title"/>NKC|jn19990004280</link>
+				<link>
+					<match type="exact title"/>BNF|11909637</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="exact title"/>NLP|a11580884</link>
+				<link>
+					<match type="title"/>NLI|000075334</link>
+				<link>
+					<match type="title"/>NLI|000075334</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="UNIMARC" ind1=" " ind2="|" tag="200">
+				<subfield code="7">ba0yba0y</subfield>
+				<subfield code="8">fre   </subfield>
+				<subfield code="9">0 </subfield>
+				<subfield code="a">Kerouac</subfield>
+				<subfield code="b">Jack</subfield>
+				<subfield code="f">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<id>BNF|11909637</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="standard number"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="suggested"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack</subfield>
+			</datafield>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+			<id>NTA|06825489X</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="exact title"/>BNE|XX915622</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="standard number"/>PTBNP|118207</link>
+				<link>
+					<match type="exact title"/>B2Q|0000021960</link>
+				<link>
+					<match type="exact title"/>NLI|000075334</link>
+				<link>
+					<match type="exact title"/>NLI|000075334</link>
+				<link>
+					<match type="standard number"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="standard number"/>SELIBR|193363</link>
+				<link>
+					<match type="standard number"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="lccn"/>N6I|vtls000355414</link>
+				<link>
+					<match type="standard number"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="suggested"/>WKP|Q160534</link>
+				<link>
+					<match type="exact title"/>NLP|a11580884</link>
+				<link>
+					<match type="standard number"/>BNC|a10475400</link>
+				<link>
+					<match type="standard number"/>NKC|jn19990004280</link>
+				<link>
+					<match type="exact title"/>NDL|00445529</link>
+				<link>
+					<match type="exact title"/>LAC|0013C6856</link>
+				<link>
+					<match type="standard number"/>SUDOC|027325962</link>
+				<link>
+					<match type="joint author"/>JPG|500290917</link>
+				<link>
+					<match type="lccn"/>LC|n  80036674</link>
+				<link>
+					<match type="exact title"/>DNB|118561561</link>
+				<link>
+					<match type="standard number"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack</subfield>
+			</datafield>
+			<sources>
+				<s>DBC</s>
+				<sid>DBC|87097968542790</sid>
+			</sources>
+			<id>DBC|87097968542790</id>
+			<links>
+				<link>
+					<match type="exact title"/>NTA|06825489X</link>
+				<link>
+					<match type="exact title"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="exact title"/>BNE|XX915622</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="exact title"/>LC|n  80036674</link>
+				<link>
+					<match type="exact title"/>PTBNP|118207</link>
+				<link>
+					<match type="exact title"/>SUDOC|027325962</link>
+				<link>
+					<match type="exact title"/>SELIBR|193363</link>
+				<link>
+					<match type="exact title"/>BNC|a10475400</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="exact title"/>RERO|vtls000097908</link>
+				<link>
+					<match type="exact title"/>NKC|jn19990004280</link>
+				<link>
+					<match type="exact title"/>BNF|11909637</link>
+				<link>
+					<match type="exact title"/>NLP|a11580884</link>
+				<link>
+					<match type="exact title"/>NDL|00445529</link>
+				<link>
+					<match type="exact title"/>NLI|000075334</link>
+				<link>
+					<match type="exact title"/>NLI|000075334</link>
+				<link>
+					<match type="exact title"/>WKP|Q160534</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack</subfield>
+			</datafield>
+			<sources>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+			</sources>
+			<id>RERO|vtls000097908</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="standard number"/>BNE|XX915622</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="standard number"/>PTBNP|118207</link>
+				<link>
+					<match type="joint author"/>JPG|500290917</link>
+				<link>
+					<match type="exact title"/>NLI|000075334</link>
+				<link>
+					<match type="exact title"/>NLI|000075334</link>
+				<link>
+					<match type="standard number"/>NTA|06825489X</link>
+				<link>
+					<match type="standard number"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="standard number"/>SELIBR|193363</link>
+				<link>
+					<match type="standard number"/>NSK|000085384</link>
+				<link>
+					<match type="title"/>N6I|vtls000355414</link>
+				<link>
+					<match type="standard number"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="exact title"/>WKP|Q160534</link>
+				<link>
+					<match type="standard number"/>BNC|a10475400</link>
+				<link>
+					<match type="standard number"/>NKC|jn19990004280</link>
+				<link>
+					<match type="exact title"/>NDL|00445529</link>
+				<link>
+					<match type="standard number"/>LAC|0013C6856</link>
+				<link>
+					<match type="standard number"/>B2Q|0000021960</link>
+				<link>
+					<match type="standard number"/>SUDOC|027325962</link>
+				<link>
+					<match type="standard number"/>NLP|a11580884</link>
+				<link>
+					<match type="standard number"/>LC|n  80036674</link>
+				<link>
+					<match type="standard number"/>DNB|118561561</link>
+				<link>
+					<match type="standard number"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack</subfield>
+			</datafield>
+			<sources>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+			</sources>
+			<id>NSK|000085384</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="exact title"/>BNE|XX915622</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="exact title"/>PTBNP|118207</link>
+				<link>
+					<match type="exact title"/>NLP|a11580884</link>
+				<link>
+					<match type="title"/>NLI|000075334</link>
+				<link>
+					<match type="title"/>NLI|000075334</link>
+				<link>
+					<match type="standard number"/>NTA|06825489X</link>
+				<link>
+					<match type="exact title"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="standard number"/>SELIBR|193363</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="standard number"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="exact title"/>BNC|a10475400</link>
+				<link>
+					<match type="exact title"/>NKC|jn19990004280</link>
+				<link>
+					<match type="exact title"/>NDL|00445529</link>
+				<link>
+					<match type="exact title"/>LAC|0013C6856</link>
+				<link>
+					<match type="standard number"/>SUDOC|027325962</link>
+				<link>
+					<match type="exact title"/>B2Q|0000021960</link>
+				<link>
+					<match type="standard number"/>LC|n  80036674</link>
+				<link>
+					<match type="exact title"/>DNB|118561561</link>
+				<link>
+					<match type="exact title"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack</subfield>
+				<subfield code="d">(1922-1969).</subfield>
+			</datafield>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+			</sources>
+			<id>NUKAT|n  94204929</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="standard number"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="standard number"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack</subfield>
+				<subfield code="d">(1922-1969).</subfield>
+			</datafield>
+			<sources>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+			<id>NLP|a11580884</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="exact title"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>KRNLK</s>
+				<sid>KRNLK|KAC199634745</sid>
+			</sources>
+			<id>KRNLK|KAC199634745</id>
+			<links>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2="0" tag="100">
+				<subfield code="a">Kerouac, Jack</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+			</sources>
+			<id>BNE|XX915622</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="exact title"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+			<id>DNB|118561561</id>
+			<links>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="exact title"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="suggested"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="suggested"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack</subfield>
+				<subfield code="g">American writer, 1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>JPG</s>
+				<sid>JPG|500290917</sid>
+			</sources>
+			<id>JPG|500290917</id>
+			<links>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="joint author"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="joint author"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+			<id>SELIBR|193363</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="standard number"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="standard number"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<subfield code="7">jn19990004280</subfield>
+			</datafield>
+			<sources>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+			<id>NKC|jn19990004280</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="standard number"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="suggested"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>NLA</s>
+				<sid>NLA|000036129069</sid>
+			</sources>
+			<id>NLA|000036129069</id>
+			<links>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+			</sources>
+			<id>N6I|vtls000355414</id>
+			<links>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="lccn"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="title"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="forced single date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+			</sources>
+			<id>NDL|00445529</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="exact title"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="exact title"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="suggested"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+			</sources>
+			<id>LNB|LNC10-000029496</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="standard number"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NLR|RU NLR AUTH 7714549</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+			<id>SUDOC|027325962</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="suggested"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="standard number"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="standard number"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="suggested"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+			</sources>
+			<id>BNC|a10475400</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="standard number"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+			</sources>
+			<id>LC|n  80036674</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="lccn"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="standard number"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="lccn"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="suggested"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+			</sources>
+			<id>LAC|0013C6856</id>
+			<links>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="exact title"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+			<id>B2Q|0000021960</id>
+			<links>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="exact title"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">Kerouac, Jack,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<subfield code="9">lat</subfield>
+			</datafield>
+			<sources>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+			</sources>
+			<id>NLI|000075334</id>
+			<links>
+				<link>
+					<match type="title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="exact title"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="title"/>NSK|000085384</link>
+				<link>
+					<match type="exact title"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="UNIMARC" ind1=" " ind2="1" tag="200">
+				<subfield code="a">Kerouac,</subfield>
+				<subfield code="b">Jack,</subfield>
+				<subfield code="f">1922-1969</subfield>
+			</datafield>
+			<sources>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+			</sources>
+			<id>PTBNP|118207</id>
+			<links>
+				<link>
+					<match type="exact title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="double date"/>NLI|000075334</link>
+				<link>
+					<match type="standard number"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="exact title"/>NSK|000085384</link>
+				<link>
+					<match type="standard number"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="UNIMARC" ind1=" " ind2="1" tag="200">
+				<subfield code="a">Керуак</subfield>
+				<subfield code="b">Д.</subfield>
+				<subfield code="f">1922-1969</subfield>
+				<subfield code="g">Джек</subfield>
+			</datafield>
+			<sources>
+				<s>NLR</s>
+				<sid>NLR|RU NLR AUTH 7714549</sid>
+			</sources>
+			<id>NLR|RU NLR AUTH 7714549</id>
+			<links>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="title"/>WKP|Q160534</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="forced single date"/>ISNI|000000012125127X</link>
+			</links>
+		</mainHeadingEl>
+		<mainHeadingEl>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="100">
+				<subfield code="a">קרואק, ג'ק,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<subfield code="9">heb</subfield>
+			</datafield>
+			<sources>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+			</sources>
+			<id>NLI|000075334</id>
+			<links>
+				<link>
+					<match type="title"/>ICCU|CFIV003274</link>
+				<link>
+					<match type="double date"/>BNE|XX915622</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="viafid"/>ISNI|000000012125127X</link>
+				<link>
+					<match type="double date"/>PTBNP|118207</link>
+				<link>
+					<match type="double date"/>B2Q|0000021960</link>
+				<link>
+					<match type="exact title"/>NTA|06825489X</link>
+				<link>
+					<match type="double date"/>LNB|LNC10-000029496</link>
+				<link>
+					<match type="double date"/>N6I|vtls000355414</link>
+				<link>
+					<match type="double date"/>SELIBR|193363</link>
+				<link>
+					<match type="title"/>NSK|000085384</link>
+				<link>
+					<match type="exact title"/>RERO|vtls000097908</link>
+				<link>
+					<match type="double date"/>NLA|000036129069</link>
+				<link>
+					<match type="double date"/>NUKAT|n  94204929</link>
+				<link>
+					<match type="exact title"/>DBC|87097968542790</link>
+				<link>
+					<match type="viafid"/>WKP|Q160534</link>
+				<link>
+					<match type="double date"/>DNB|118561561</link>
+				<link>
+					<match type="double date"/>NLP|a11580884</link>
+				<link>
+					<match type="double date"/>BNC|a10475400</link>
+				<link>
+					<match type="double date"/>NKC|jn19990004280</link>
+				<link>
+					<match type="double date"/>NDL|00445529</link>
+				<link>
+					<match type="double date"/>LAC|0013C6856</link>
+				<link>
+					<match type="double date"/>SUDOC|027325962</link>
+				<link>
+					<match type="double date"/>JPG|500290917</link>
+				<link>
+					<match type="double date"/>LC|n  80036674</link>
+				<link>
+					<match type="double date"/>KRNLK|KAC199634745</link>
+				<link>
+					<match type="double date"/>BNF|11909637</link>
+			</links>
+		</mainHeadingEl>
+	</mainHeadings>
+	<fixed>
+		<gender>u</gender>
+	</fixed>
+	<x400s>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Cek Keruak</subfield>
+				<normalized>cek keruak</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Chia-lo-kʻo, Chieh-kʻo,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>chia lo ko chieh ko 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Chia-lo-kʻo, Chieh-kʻo</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>chia lo ko chieh ko 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Džeks Keruaks</subfield>
+				<normalized>dzeks keruaks</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Iacobus Kerouac</subfield>
+				<normalized>iacobus kerouac</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Jack Kerouac</subfield>
+				<normalized>jack kerouac</normalized>
+			</datafield>
+			<sources>
+				<s>JPG</s>
+				<sid>JPG|500290917</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Jack Kerouac</subfield>
+				<subfield code="c">Amerikaans schrijver</subfield>
+				<normalized>jack kerouac amerikaans schrijver</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Jack Kerouac</subfield>
+				<subfield code="c">US-amerikanischer Schriftsteller und Beatnik</subfield>
+				<normalized>jack kerouac us amerikanischer schriftsteller und beatnik</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Jack Kerouac</subfield>
+				<subfield code="c">americký spisovatel</subfield>
+				<normalized>jack kerouac americky spisovatel</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Jack Kerouac</subfield>
+				<subfield code="c">amerikansk poet och författare</subfield>
+				<normalized>jack kerouac amerikansk poet och forfattare</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Jack Kerouac</subfield>
+				<subfield code="c">amerikansk poet og skribent</subfield>
+				<normalized>jack kerouac amerikansk poet og skribent</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Jack Kerouac</subfield>
+				<subfield code="c">pisarz amerykański</subfield>
+				<normalized>jack kerouac pisarz amerykanski</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Jack Kerouac</subfield>
+				<subfield code="c">scrittore e poeta statunitense</subfield>
+				<normalized>jack kerouac scrittore e poeta statunitense</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kailuyake, Jieke</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kailuyake jieke 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Kerouac Jean-Louis Lebris de</subfield>
+				<normalized>kerouac jean louis lebris de</normalized>
+			</datafield>
+			<sources>
+				<s>JPG</s>
+				<sid>JPG|500290917</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, Jack</subfield>
+				<normalized>kerouac jack</normalized>
+			</datafield>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, Jack Jean Louis</subfield>
+				<normalized>kerouac jack jean louis</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, Jack Jean Louis.</subfield>
+				<normalized>kerouac jack jean louis</normalized>
+			</datafield>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, Jean Louis Lebris de,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac jean louis lebris de 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>NLA</s>
+				<sid>NLA|000036129069</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, Jean Louis Lebris de</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac jean louis lebris de 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2="0" tag="400">
+				<subfield code="a">Kerouac, Jean Louis Lebris de</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac jean louis lebris de 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, Jean-Louis Le Bris de,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac jean louis le bris de 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, Jean-Louis Lebris de</subfield>
+				<normalized>kerouac jean louis lebris de</normalized>
+			</datafield>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, Jean-Louis,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac jean louis 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, Jean-Louis</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac jean louis 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, John</subfield>
+				<normalized>kerouac john</normalized>
+			</datafield>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, John,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac john 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+				<s>NLA</s>
+				<sid>NLA|000036129069</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, John.</subfield>
+				<normalized>kerouac john</normalized>
+			</datafield>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouac, John</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac john 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2="0" tag="400">
+				<subfield code="a">Kerouac, John</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac john 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1=" " ind2="1" tag="400">
+				<subfield code="a">Kerouac,</subfield>
+				<subfield code="b">Jack</subfield>
+				<normalized>kerouac jack</normalized>
+			</datafield>
+			<sources>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1=" " ind2="1" tag="400">
+				<subfield code="a">Kerouac</subfield>
+				<subfield code="b">, John</subfield>
+				<normalized>kerouac john</normalized>
+			</datafield>
+			<sources>
+				<s>ICCU</s>
+				<sid>ICCU|CFIV003274</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouak, Tzak</subfield>
+				<normalized>kerouak tzak</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kerouak, Tzak.</subfield>
+				<normalized>kerouak tzak</normalized>
+			</datafield>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Keruak, Dz︠h︡ek,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>keruak dzhek 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Keruak, Dz︠h︡ek</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>keruak dzhek 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Keruaks, Džeks,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>keruaks dzeks 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Keruaks, Džeks</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>keruaks dzeks 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kérouac, Jean Louis Lebris de,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac jean louis lebris de 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kérouac, Jean Louis Lebris de</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac jean louis lebris 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kiuwāk, Ǧāk</subfield>
+				<normalized>kiuwak gak</normalized>
+			</datafield>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kiuwāk, Ǧāk</subfield>
+				<normalized>kiuwak gak</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kérouac, Jean Louis Lebris de</subfield>
+				<normalized>kerouac jean louis lebris de</normalized>
+			</datafield>
+			<sources>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kérouac, Jean Louis Lebris de,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac jean louis lebris de 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kérouac, Jean Louis Lebris de.</subfield>
+				<normalized>kerouac jean louis lebris de</normalized>
+			</datafield>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Kérouac, Jean Louis Lebris de</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac jean louis lebris de 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Ḳeruʼaḳ, G'eḳ,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>keruak gek 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Lebris de Kerouac, Jean-Louis</subfield>
+				<normalized>lebris de kerouac jean louis</normalized>
+			</datafield>
+			<sources>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Lebris de Kérouac, Jean Louis</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>lebris de kerouac jean louis 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Lebris de Kérouac, Jean Louis</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>lebris de kerouac jean louis 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Paradise, Sal,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>paradise sal 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>NLA</s>
+				<sid>NLA|000036129069</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Paradise, Sal</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>paradise sal 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Τζακ Κέρουακ</subfield>
+				<normalized>τζακ κερουακ</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Џек Керуак</subfield>
+				<normalized>џек керуак</normalized>
+			</datafield>
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Джак Керуак</subfield>
+				<normalized>джак керуак</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Джек Керуак</subfield>
+				<normalized>джек керуак</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Джэк Керуак</subfield>
+				<normalized>джэк керуак</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Джэк Кэруак</subfield>
+				<normalized>джэк кэруак</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Керуак Жэк</subfield>
+				<normalized>керуак жэк</normalized>
+			</datafield>
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Керуак, Джек</subfield>
+				<normalized>керуак джек</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Керуак, Джек,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>керуак джек 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Керуак, Джек</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>керуак джек 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1=" " ind2="1" tag="400">
+				<subfield code="a">Керуак</subfield>
+				<subfield code="b">Ж-Л</subfield>
+				<subfield code="f">1922-1969</subfield>
+				<subfield code="5">z</subfield>
+				<normalized>керуак ж л 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>NLR</s>
+				<sid>NLR|RU NLR AUTH 7714549</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">Ջեք Քերուակ</subfield>
+				<normalized>ջեք քերուակ</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">ג'ק קרואק</subfield>
+				<normalized>גק קרואק</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">קרואק, ג'ק</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>קרואק גק 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">קרואק, ג׳ק,</subfield>
+				<subfield code="d">1922־1969</subfield>
+				<normalized>קרואק ג ק 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">קרואק, ג׳ק</subfield>
+				<subfield code="d">1922־1969</subfield>
+				<normalized>קרואק ג ק 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">جاك كيروك</subfield>
+				<normalized>جاك كيروك</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">جک کرواک</subfield>
+				<subfield code="c">نویسنده و شاعر آمریکایی</subfield>
+				<normalized>جک کرواک نویسنده و شاعر امریکایی</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">जैक केरुयक</subfield>
+				<normalized>जक करयक</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">জেক কেৰুৱাক</subfield>
+				<normalized>জক কৰৱক</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">แจ็ก เครูแอ็ก</subfield>
+				<normalized>แจก เครแอก</normalized>
+			</datafield>
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">ჯეკ კერუაკი</subfield>
+				<normalized>ჯეკ კერუაკი</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Ḳeruʼaḳ, G'eḳ,</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>keruak gek 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">Ḳeruʼaḳ, G'eḳ</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>keruak gek 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">ケラワック, J.</subfield>
+				<normalized>ケラワック j</normalized>
+			</datafield>
+			<sources>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">ケルアック, ジャック</subfield>
+				<normalized>ケルアック シャック</normalized>
+			</datafield>
+			<sources>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">ケルアック, ジャック</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>ケルアック シャック 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>KRNLK</s>
+				<sid>KRNLK|KAC199634745</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">ジャック・ケルアック</subfield>
+				<normalized>シャック ケルアック</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">傑克·凱魯亞克</subfield>
+				<normalized>傑剋 凯魯亚剋</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="0" ind2=" " tag="400">
+				<subfield code="a">잭 케루악</subfield>
+				<normalized>잭 케루악</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">케로우액, 잭</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>케로우액 잭 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>KRNLK</s>
+				<sid>KRNLK|KAC199634745</sid>
+			</sources>
+		</x400>
+		<x400>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="400">
+				<subfield code="a">케루악, 잭</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>케루악 잭 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>KRNLK</s>
+				<sid>KRNLK|KAC199634745</sid>
+			</sources>
+		</x400>
+	</x400s>
+	<x500s>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Autret, Jean</subfield>
+				<subfield code="d">1930-....)</subfield>
+				<normalized>autret jean 1930</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Brice, Silvija</subfield>
+				<subfield code="d">1958-</subfield>
+				<normalized>brice silvija 1958</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Burroughs, William Seward</subfield>
+				<normalized>burroughs william seward</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Cassady, Carolyn</subfield>
+				<subfield code="d">1923-2013</subfield>
+				<normalized>cassady carolyn 1923 2013</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Cassady, Carolyn</subfield>
+				<subfield code="d">1923-2013</subfield>
+				<subfield code="e">Beziehung familiaer</subfield>
+				<normalized>cassady carolyn 1923 2013</normalized>
+			</datafield>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Charters, Ann</subfield>
+				<normalized>charters ann</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Donaldson, Scott</subfield>
+				<normalized>donaldson scott</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Frank, Robert</subfield>
+				<subfield code="d">1924-</subfield>
+				<normalized>frank robert 1924</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Ginsberg, Allen</subfield>
+				<normalized>ginsberg allen</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Guglielmina, Pierre</subfield>
+				<normalized>guglielmina pierre</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Joris, Pierre</subfield>
+				<subfield code="d">1946-....)</subfield>
+				<normalized>joris pierre 1946</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Kerouac, John</subfield>
+				<subfield code="d">1922-1969</subfield>
+				<normalized>kerouac john 1922 1969</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Kołyszko, Anna</subfield>
+				<subfield code="d">1953-2009)</subfield>
+				<normalized>kolyszko anna 1953 2009</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Krim, Seymour</subfield>
+				<subfield code="d">1922-1989</subfield>
+				<normalized>krim seymour 1922 1989</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Lendínez, Martín</subfield>
+				<subfield code="d">1943-</subfield>
+				<normalized>lendinez martin 1943</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1=" " ind2=" " tag="551">
+				<subfield code="a">Lowell, Mass.</subfield>
+				<normalized>lowell mass</normalized>
+			</datafield>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Matthieussent, Brice</subfield>
+				<subfield code="d">1950-....)</subfield>
+				<normalized>matthieussent brice 1950</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Obarski, Marek</subfield>
+				<subfield code="d">1947-1997)</subfield>
+				<normalized>obarski marek 1947 1997</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Salles, Walter</subfield>
+				<normalized>salles walter</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Vale de Gato, Margarida</subfield>
+				<subfield code="d">1973-</subfield>
+				<normalized>vale de gato margarida 1973</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Vandenbergh, John</subfield>
+				<subfield code="c">pseud. van Jan Hendrik Willem Schlamilch.</subfield>
+				<normalized>vandenbergh john pseud van jan hendrik willem schlamilch</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Válek, Jan</subfield>
+				<subfield code="d">1933-2008</subfield>
+				<normalized>valek jan 1933 2008</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Wilson, Lars</subfield>
+				<normalized>wilson lars</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">Šindolić, Vojo</subfield>
+				<normalized>sindolic vojo</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">פלד, עודד</subfield>
+				<subfield code="d">1949-</subfield>
+				<normalized>פלד עודד 1949</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+		<x500>
+			<datafield dtype="MARC21" ind1="1" ind2=" " tag="500">
+				<subfield code="a">中上, 哲夫</subfield>
+				<subfield code="d">1939-</subfield>
+				<normalized>中丄 哲夫 1939</normalized>
+			</datafield>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</x500>
+	</x500s>
+	<coauthors>
+		<data count="37" tag="950">
+			<text>Autret, Jean 1901-1985</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+			</sources>
+		</data>
+		<data count="32" tag="950">
+			<text>Ginsberg, Allen 1926-1997</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</data>
+		<data count="28" tag="950">
+			<text>Frank, Robert, 1924-</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>JPG</s>
+				<sid>JPG|500290917</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="26" tag="950">
+			<text>Guglielmina, Pierre</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="23" tag="950">
+			<text>Houbart, Jacques 1926-....</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="20" tag="950">
+			<text>Matthieussent, Brice 1950-....</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="20" tag="950">
+			<text>Kamoun, Josée</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="18" tag="950">
+			<text>Antolín Rato, Mariano, 1943-</text>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+			</sources>
+		</data>
+		<data count="15" tag="950">
+			<text>Joris, Pierre 1946-....</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="15" tag="950">
+			<text>Charters, Ann 1936-....</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+			</sources>
+		</data>
+		<data count="10" tag="950">
+			<text>Vandenbergh, John, pseud. van Jan Hendrik Willem Schlamilch.</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+		</data>
+		<data count="10" tag="950">
+			<text>Kołyszko, Anna (1953-2009).</text>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+			</sources>
+		</data>
+		<data count="9" tag="950">
+			<text>Wilson, Lars.</text>
+			<sources>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</data>
+		<data count="9" tag="950">
+			<text>Lendínez, Martín 1943-</text>
+			<sources>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+			</sources>
+		</data>
+		<data count="8" tag="950">
+			<text>中上, 哲夫, 1939-</text>
+			<sources>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+			</sources>
+		</data>
+		<data count="6" tag="950">
+			<text>Faria, Paulo</text>
+			<sources>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+			</sources>
+		</data>
+		<data count="5" tag="950">
+			<text>Šindolić, Vojo</text>
+			<sources>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+			</sources>
+		</data>
+		<data count="5" tag="950">
+			<text>Obarski, Marek (1947-1997).</text>
+			<sources>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+		</data>
+		<data count="4" tag="950">
+			<text>Válek, Jan, 1933-2008</text>
+			<sources>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+		</data>
+		<data count="3" tag="950">
+			<text>פלד, עודד, 1949-</text>
+			<sources>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+			</sources>
+		</data>
+		<data count="3" tag="950">
+			<text>Tietchen, Todd F.</text>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+			</sources>
+		</data>
+		<data count="2" tag="950">
+			<text>Salles, Walter</text>
+			<sources>
+				<s>DBC</s>
+				<sid>DBC|87097968542790</sid>
+			</sources>
+		</data>
+		<data count="2" tag="950">
+			<text>Brice, Silvija, 1958-</text>
+			<sources>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+			</sources>
+		</data>
+		<data count="1" tag="950">
+			<text>Берроуз У. С. ст. 1914-1997 Уильям Сьюард</text>
+			<sources>
+				<s>NLR</s>
+				<sid>NLR|RU NLR AUTH 7714549</sid>
+			</sources>
+		</data>
+		<data count="1" tag="950">
+			<text>Poliquin, Daniel, 1953-</text>
+			<sources>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+		</data>
+		<data count="1" tag="950">
+			<text>Donaldson, Scott.</text>
+			<sources>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+			</sources>
+		</data>
+	</coauthors>
+	<publishers>
+		<data count="193">
+			<text>Gallimard</text>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+		</data>
+		<data count="171">
+			<text>Penguin books</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+			</sources>
+		</data>
+		<data count="98">
+			<text>Rowohlt</text>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</data>
+		<data count="81">
+			<text>Viking</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</data>
+		<data count="81">
+			<text>Grove Press</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</data>
+		<data count="58">
+			<text>A. Deutsch</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</data>
+		<data count="33">
+			<text>Anagrama</text>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</data>
+		<data count="20">
+			<text>De Bezige Bij</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+			</sources>
+		</data>
+		<data count="16">
+			<text>Азбука Азбука-Аттикус</text>
+			<sources>
+				<s>NLR</s>
+				<sid>NLR|RU NLR AUTH 7714549</sid>
+			</sources>
+		</data>
+		<data count="16">
+			<text>Argo</text>
+			<sources>
+				<s>ISNI</s>
+				<sid>ISNI|000000012125127X</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+		</data>
+		<data count="10">
+			<text>河出書房新社</text>
+			<sources>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+			</sources>
+		</data>
+		<data count="9">
+			<text>Wydawnictwo W.A.B.</text>
+			<sources>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+		</data>
+		<data count="2">
+			<text>Rosinante</text>
+			<sources>
+				<s>DBC</s>
+				<sid>DBC|87097968542790</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>Thunder's Mouth Press</text>
+			<sources>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+			</sources>
+		</data>
+	</publishers>
+	<birthDate>1922-03-12</birthDate>
+	<deathDate>1969-10-21</deathDate>
+	<dateType>lived</dateType>
+	<dates max="201" min="195">
+		<date count="84" scaled="6.39">195</date>
+		<date count="133" scaled="7.06">196</date>
+		<date count="337" scaled="8.40">197</date>
+		<date count="214" scaled="7.74">198</date>
+		<date count="326" scaled="8.35">199</date>
+		<date count="287" scaled="8.16">200</date>
+		<date count="8" scaled="3.00">201</date>
+	</dates>
+	<RecFormats>
+		<data count="6">
+			<text>a </text>
+			<sources>
+				<s>ICCU</s>
+				<sid>ICCU|CFIV003274</sid>
+				<s>DBC</s>
+				<sid>DBC|87097968542790</sid>
+			</sources>
+		</data>
+		<data count="3">
+			<text>aa</text>
+			<sources>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+			</sources>
+		</data>
+		<data count="1578">
+			<text>am</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NLR</s>
+				<sid>NLR|RU NLR AUTH 7714549</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>bm</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="2">
+			<text>cm</text>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+			</sources>
+		</data>
+		<data count="27">
+			<text>dm</text>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>ga</text>
+			<sources>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+		</data>
+		<data count="14">
+			<text>gm</text>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="31">
+			<text>im</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="9">
+			<text>jm</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>om</text>
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>tm</text>
+			<sources>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+		</data>
+	</RecFormats>
+	<RelatorCodes>
+		<data count="173">
+			<text>070</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>NLR</s>
+				<sid>NLR|RU NLR AUTH 7714549</sid>
+			</sources>
+		</data>
+		<data count="3">
+			<text>080</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="4">
+			<text>100</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>450</text>
+			<sources>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+			</sources>
+		</data>
+		<data count="3">
+			<text>460</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="6">
+			<text>550</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>721</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>ant</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+		</data>
+		<data count="3">
+			<text>aut</text>
+			<sources>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</data>
+		<data count="11">
+			<text>auteur</text>
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="2">
+			<text>auteur adapte precedent</text>
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="14">
+			<text>ctb</text>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>ive</text>
+			<sources>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+		</data>
+		<data count="6">
+			<text>mitarb</text>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</data>
+		<data count="6">
+			<text>preface</text>
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="3">
+			<text>przedm</text>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>rcp</text>
+			<sources>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+			</sources>
+		</data>
+		<data count="2">
+			<text>voix parlee</text>
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>vre</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+	</RelatorCodes>
+	<ISBNs unique="561">
+		<data count="21">
+			<text>9783499110351</text>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</data>
+		<data count="17">
+			<text>9783499114175</text>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</data>
+		<data count="14">
+			<text>9783499113918</text>
+			<sources>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</data>
+		<data count="11">
+			<text>9782070367665</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="10">
+			<text>9780140031928</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+			</sources>
+		</data>
+		<data count="9">
+			<text>9780140185218</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="9">
+			<text>9780140042528</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+			</sources>
+		</data>
+		<data count="8">
+			<text>9783499144158</text>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</data>
+		<data count="8">
+			<text>9782070371877</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+		</data>
+		<data count="8">
+			<text>9780582402652</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+		</data>
+		<data count="4">
+			<text>9788374140829</text>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+			</sources>
+		</data>
+		<data count="4">
+			<text>9785389021112</text>
+			<sources>
+				<s>NLR</s>
+				<sid>NLR|RU NLR AUTH 7714549</sid>
+			</sources>
+		</data>
+		<data count="3">
+			<text>9789026959400</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+		</data>
+		<data count="3">
+			<text>9788433920140</text>
+			<sources>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+			</sources>
+		</data>
+		<data count="3">
+			<text>9782729100605</text>
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="2">
+			<text>9789727085347</text>
+			<sources>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+			</sources>
+		</data>
+		<data count="2">
+			<text>9788477391395</text>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+			</sources>
+		</data>
+		<data count="2">
+			<text>9788306023022</text>
+			<sources>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+		</data>
+		<data count="2">
+			<text>9782710303473</text>
+			<sources>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+		</data>
+		<data count="2">
+			<text>9782267013276</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>9789984777061</text>
+			<sources>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>9789655340549</text>
+			<sources>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>9789539894090</text>
+			<sources>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>9789531860321</text>
+			<sources>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>9788790524180</text>
+			<sources>
+				<s>DBC</s>
+				<sid>DBC|87097968542790</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>9788090188839</text>
+			<sources>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>9784880082646</text>
+			<sources>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>9782890374805</text>
+			<sources>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>9781907468216</text>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>9781851320738</text>
+			<sources>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+			</sources>
+		</data>
+	</ISBNs>
+	<covers>
+		<data count="9">
+			<text>0140185216</text>
+			<xtext>+-+1670365965</xtext>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="9">
+			<text>0140042520</text>
+			<xtext>+-+5707955965</xtext>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+			</sources>
+		</data>
+		<data count="8">
+			<text>1598530127</text>
+			<xtext>+-+2765803406</xtext>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="8">
+			<text>067084957X</text>
+			<xtext>+-+K204935215</xtext>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+			</sources>
+		</data>
+		<data count="7">
+			<text>1405882468</text>
+			<xtext>+-+3197330596</xtext>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+			</sources>
+		</data>
+		<data count="7">
+			<text>0670861901</text>
+			<xtext>+-+6546135215</xtext>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="7">
+			<text>0586089071</text>
+			<xtext>+-+6254351305</xtext>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</data>
+		<data count="7">
+			<text>0156907909</text>
+			<xtext>+-+4542541065</xtext>
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+		</data>
+		<data count="7">
+			<text>0140168125</text>
+			<xtext>+-+0763165965</xtext>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="6">
+			<text>0140168117</text>
+			<xtext>+-+2663165965</xtext>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="3">
+			<text>8433920146</text>
+			<xtext>+-+1965748893</xtext>
+			<sources>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+			</sources>
+		</data>
+		<data count="3">
+			<text>0140144528</text>
+			<xtext>+-+3709965965</xtext>
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>3931141802</text>
+			<xtext>+-+7536966848</xtext>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>3865216730</text>
+			<xtext>+-+5821670138</xtext>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>1560257423</text>
+			<xtext>+-+8792075106</xtext>
+			<sources>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>0912516976</text>
+			<xtext>+-+1241607645</xtext>
+			<sources>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>0899661351</text>
+			<xtext>+-+6086114435</xtext>
+			<sources>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+			</sources>
+		</data>
+		<data count="1">
+			<text>014200264X</text>
+			<xtext>+-+K917557965</xtext>
+			<sources>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+			</sources>
+		</data>
+	</covers>
+	<countries>
+		<data count="460" scaled="8">
+			<text>US</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+			</sources>
+		</data>
+		<data count="343" scaled="8">
+			<text>FR</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+			</sources>
+		</data>
+		<data count="248" scaled="8">
+			<text>GB</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+			</sources>
+		</data>
+		<data count="164" scaled="7">
+			<text>DE</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+			</sources>
+		</data>
+		<data count="57" scaled="6">
+			<text>ES</text>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+			</sources>
+		</data>
+		<data count="44" scaled="5">
+			<text>PL</text>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+		</data>
+		<data count="42" scaled="5">
+			<text>NL</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+		</data>
+		<data count="39" scaled="5">
+			<text>CZ</text>
+			<sources>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+		</data>
+		<data count="36" scaled="5">
+			<text>RU</text>
+			<sources>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>NLR</s>
+				<sid>NLR|RU NLR AUTH 7714549</sid>
+			</sources>
+		</data>
+		<data count="31" scaled="5">
+			<text>PT</text>
+			<sources>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+			</sources>
+		</data>
+		<data count="24" scaled="5">
+			<text>JP</text>
+			<sources>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+			</sources>
+		</data>
+		<data count="20" scaled="4">
+			<text>CA</text>
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+			</sources>
+		</data>
+		<data count="17" scaled="4">
+			<text>SE</text>
+			<sources>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</data>
+		<data count="15" scaled="4">
+			<text>HR</text>
+			<sources>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</data>
+		<data count="9" scaled="3">
+			<text>AR</text>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="6" scaled="3">
+			<text>IL</text>
+			<sources>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+			</sources>
+		</data>
+		<data count="5" scaled="3">
+			<text>DK</text>
+			<sources>
+				<s>DBC</s>
+				<sid>DBC|87097968542790</sid>
+			</sources>
+		</data>
+		<data count="4" scaled="2">
+			<text>KI</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+		</data>
+		<data count="3" scaled="2">
+			<text>UA</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+		</data>
+		<data count="3" scaled="2">
+			<text>IT</text>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="3" scaled="2">
+			<text>CH</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="3" scaled="2">
+			<text>BE</text>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+		</data>
+		<data count="2" scaled="1">
+			<text>SK</text>
+			<sources>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+		</data>
+		<data count="2" scaled="1">
+			<text>LV</text>
+			<sources>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+			</sources>
+		</data>
+		<data count="1" scaled="1">
+			<text>TR</text>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+		</data>
+		<data count="1" scaled="1">
+			<text>NO</text>
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+		</data>
+		<data count="1" scaled="1">
+			<text>IE</text>
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+			</sources>
+		</data>
+		<data count="1" scaled="1">
+			<text>GR</text>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+			</sources>
+		</data>
+		<data count="1" scaled="1">
+			<text>FI</text>
+			<sources>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+		</data>
+		<data count="1" scaled="1">
+			<text>CS</text>
+			<sources>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+			</sources>
+		</data>
+		<data count="1" scaled="1">
+			<text>AT</text>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+		</data>
+	</countries>
+	<languageOfEntity>
+		<data>
+			<text>eng</text>
+			<sources>
+				<s>B2Q</s>
+				<s>BNF</s>
+				<s>DNB</s>
+				<s>ICCU</s>
+			</sources>
+		</data>
+	</languageOfEntity>
+	<nationalityOfEntity>
+		<data>
+			<text>US</text>
+			<sources>
+				<s>BNF</s>
+				<s>DNB</s>
+				<s>ICCU</s>
+				<s>ISNI</s>
+				<s>PTBNP</s>
+				<s>SELIBR</s>
+				<s>WKP</s>
+			</sources>
+		</data>
+		<data>
+			<text>États-Unis</text>
+			<sources>
+				<s>B2Q</s>
+			</sources>
+		</data>
+		<data>
+			<text>American</text>
+			<sources>
+				<s>JPG</s>
+			</sources>
+		</data>
+	</nationalityOfEntity>
+	<xLinks>
+		<xLink type="Wikipedia">http://af.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://an.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://ar.wikipedia.org/wiki/جاك_كيروك
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://as.wikipedia.org/wiki/জেক_কেৰুৱাক
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://ast.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://az.wikipedia.org/wiki/Cek_Keruak
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://be.wikipedia.org/wiki/Джэк_Керуак
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://be_x_old.wikipedia.org/wiki/Джэк_Кэруак
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://bg.wikipedia.org/wiki/Джак_Керуак
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://br.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://ca.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://cs.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://cy.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://da.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://de.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://el.wikipedia.org/wiki/Τζακ_Κέρουακ
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://en.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://eo.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://es.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://et.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://eu.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://fa.wikipedia.org/wiki/جک_کرواک
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://fi.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://fr.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://ga.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://gl.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://he.wikipedia.org/wiki/ג'ק_קרואק
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://hi.wikipedia.org/wiki/जैक_केरुयक
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://hr.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://hu.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://hy.wikipedia.org/wiki/Ջեք_Քերուակ
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://id.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://io.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://is.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://it.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://ja.wikipedia.org/wiki/ジャック・ケルアック
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://jv.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://ka.wikipedia.org/wiki/ჯეკ_კერუაკი
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://ko.wikipedia.org/wiki/잭_케루악
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://ky.wikipedia.org/wiki/Керуак_Жэк
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://la.wikipedia.org/wiki/Iacobus_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://lmo.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://lt.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://lv.wikipedia.org/wiki/Džeks_Keruaks
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://mg.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://nl.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://no.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://oc.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://pl.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://pms.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://pt.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://ro.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://ru.wikipedia.org/wiki/Керуак,_Джек
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://sh.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://simple.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://sk.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://sr.wikipedia.org/wiki/Џек_Керуак
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://sv.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://th.wikipedia.org/wiki/แจ็ก_เครูแอ็ก
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://tr.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://uk.wikipedia.org/wiki/Джек_Керуак
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://vi.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://war.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://yo.wikipedia.org/wiki/Jack_Kerouac
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+		<xLink type="Wikipedia">http://zh.wikipedia.org/wiki/傑克·凱魯亞克
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid></sources>
+		</xLink>
+	</xLinks>
+	<titles>
+		<work id="VIAF|439144929017754441158">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK183263590</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Americans</title>
+		</work>
+		<work>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+			<title>Amerikaner</title>
+		</work>
+		<work>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+			</sources>
+			<title>And the hippos were boiled in their tanks.</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+			<title>Les Anges vagabonds : roman</title>
+		</work>
+		<work>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+			<title>Be-Bop, Bars und weisses Pulver</title>
+		</work>
+		<work id="VIAF|194774925">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>XR</s>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>DNB</s>
+				<sid>DNB|990840328</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+			</sources>
+			<title>Beat generation</title>
+		</work>
+		<work id="VIAF|304879684">
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>XR</s>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|170201570</sid>
+				<sid>SUDOC|027325962</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+			<title>Big sur</title>
+		</work>
+		<work id="VIAF|613145424547486830946">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK256692</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Book of dreams</title>
+		</work>
+		<work id="VIAF|1217145424549786831288">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK491261193</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Book of Haikus</title>
+		</work>
+		<work id="VIAF|175806734">
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  84077746</sid>
+			</sources>
+			<title>Brothers</title>
+		</work>
+		<work>
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Les Clochards célestes</title>
+		</work>
+		<work id="VIAF|182345457">
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  94048585</sid>
+			</sources>
+			<title>Correspondence. Selections</title>
+		</work>
+		<work id="VIAF|309259761">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK10131711</sid>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Desolation Angels</title>
+		</work>
+		<work id="VIAF|292530469">
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>ICCU</s>
+				<sid>ICCU|CFIV003274</sid>
+				<s>DBC</s>
+				<sid>DBC|87097968542790</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>XR</s>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>NSK</s>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNF</s>
+				<sid>BNF|14479690</sid>
+				<sid>NSK|000085384</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+			</sources>
+			<title>Dharma bums</title>
+		</work>
+		<work>
+			<sources>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+			<title>Docteur Sax</title>
+		</work>
+		<work id="VIAF|308010697">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK152076963</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+			<title>Doctor Sax Faust part three</title>
+		</work>
+		<work id="VIAF|209100858">
+			<sources>
+				<s>SUDOC</s>
+				<sid>SUDOC|136156541</sid>
+			</sources>
+			<title>The Duluoz Legend</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+			<title>En el camino</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+			</sources>
+			<title>Els pòtols místics</title>
+		</work>
+		<work>
+			<sources>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+			<title>Engel, Kif und neue Länder Roman</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+			<title>Et les hippopotames ont bouilli vifs dans leurs piscines</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+			<title>Gammler, Zen und Hohe Berge</title>
+		</work>
+		<work id="VIAF|743145424538386830957">
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK28064613</sid>
+			</sources>
+			<title>Good blonde &amp; others</title>
+		</work>
+		<work>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+			<title>The haunted life and other writings</title>
+		</work>
+		<work>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+			<title>Jack Kerouac and Allen Ginsberg : the letters</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+			<title>A la carretera</title>
+		</work>
+		<work>
+			<sources>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+			<title>Le Livre des rêves</title>
+		</work>
+		<work id="VIAF|308551700">
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>XR</s>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<sid>XR|VIAFWORK10089535</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Lonesome traveler</title>
+		</work>
+		<work>
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+			<title>Mag</title>
+		</work>
+		<work id="VIAF|312331520">
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK10119834</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Maggie cassidy</title>
+		</work>
+		<work id="VIAF|190458902">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>DNB</s>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>BNF</s>
+				<sid>BNF|12345104</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>XR</s>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Mexico City blues</title>
+		</work>
+		<work>
+			<sources>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+			</sources>
+			<title>Na cestě</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+			<title>Old angel midnight</title>
+		</work>
+		<work id="VIAF|177185208">
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>DNB</s>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>XR</s>
+				<s>DBC</s>
+				<sid>DBC|87097968542790</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+				<sid>BNF|11953706</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<sid>DNB|118561561</sid>
+			</sources>
+			<title>On the road</title>
+		</work>
+		<work>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+			<title>De onderaardsen</title>
+		</work>
+		<work>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+			<title>Onderweg</title>
+		</work>
+		<work>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+			</sources>
+			<title>Op weg</title>
+		</work>
+		<work>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+			<title>Orpheus emerged</title>
+		</work>
+		<work>
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+			<title>På drift</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+			</sources>
+			<title>Pela estrada fora</title>
+		</work>
+		<work id="VIAF|308556031">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK11977633</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Pic</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+			</sources>
+			<title>Poemas dispersos</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+			<title>Poèmes</title>
+		</work>
+		<work id="VIAF|184760914">
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  92005552</sid>
+			</sources>
+			<title>Poems. Selections</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+			<title>Pomes all sizes</title>
+		</work>
+		<work id="VIAF|202979864">
+			<sources>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>DNB</s>
+				<sid>DNB|990840352</sid>
+				<sid>DNB|118561561</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+			</sources>
+			<title>Pull my daisy</title>
+		</work>
+		<work>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Road novels, 1957-1960</title>
+		</work>
+		<work>
+			<sources>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+			</sources>
+			<title>Rojō</title>
+		</work>
+		<work id="VIAF|308620191">
+			<sources>
+				<s>XR</s>
+				<sid>XR|VIAFWORK33312134</sid>
+			</sources>
+			<title>San Francisco blues</title>
+		</work>
+		<work id="VIAF|183508426">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>LC</s>
+				<sid>LC|n  86061007</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>XR</s>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Satori in Paris</title>
+		</work>
+		<work id="VIAF|309317165">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK163129</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Scattered poems</title>
+		</work>
+		<work id="VIAF|1478145424617786830766">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK2564465</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Scripture of the golden eternity</title>
+		</work>
+		<work id="VIAF|233145542809596642161">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|19097429X</sid>
+				<sid>SUDOC|027325962</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+			<title>The sea is my brother</title>
+		</work>
+		<work id="VIAF|739145424619286830233">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK290532317</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Selected letters 1957-1969</title>
+		</work>
+		<work id="VIAF|316372868">
+			<sources>
+				<s>XR</s>
+				<sid>XR|VIAFWORK60327135</sid>
+			</sources>
+			<title>Shakespeare and the outsider</title>
+		</work>
+		<work>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+			<title>Some of the dharma</title>
+		</work>
+		<work>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Les Souterrains</title>
+		</work>
+		<work id="VIAF|309258410">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>XR</s>
+				<sid>XR|VIAFWORK10023669</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Subterraneans</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>ICCU</s>
+				<sid>ICCU|CFIV003274</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+			<title>Sulla strada</title>
+		</work>
+		<work>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+			</sources>
+			<title>Sur la route</title>
+		</work>
+		<work id="VIAF|205793685">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>N6I</s>
+				<sid>N6I|vtls000355414</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>XR</s>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<sid>DNB|960361723</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>town and the city</title>
+		</work>
+		<work>
+			<sources>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+			<title>Traumtagebuch</title>
+		</work>
+		<work id="VIAF|307967569">
+			<sources>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>XR</s>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<s>LAC</s>
+				<sid>LAC|0013C6856</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<sid>XR|VIAFWORK10187136</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Tristessa</title>
+		</work>
+		<work>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+			<title>Unterwegs [berecht. Übertr. aus d. Amerikan.]</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+			</sources>
+			<title>Le Vagabond solitaire</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+			</sources>
+			<title>Los Vagabundos del Dharma</title>
+		</work>
+		<work>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+			<title>Vanité de Duluoz : une éducation aventureuse, 1935-1946</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+			<title>Vanity of Duluoz.</title>
+		</work>
+		<work>
+			<sources>
+				<s>DBC</s>
+				<sid>DBC|87097968542790</sid>
+			</sources>
+			<title>Vejene - det oprindelige manuskript</title>
+		</work>
+		<work>
+			<sources>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+			</sources>
+			<title>Verblendung des Duluoz e. abenteuerl. Erziehung ; 1935 - 46</title>
+		</work>
+		<work id="VIAF|201886557">
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>BNF</s>
+				<sid>BNF|11953745</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>DNB</s>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>XR</s>
+			</sources>
+			<title>Visions of Cody</title>
+		</work>
+		<work id="VIAF|1227145424556586831296">
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>PTBNP</s>
+				<sid>PTBNP|118207</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>NKC</s>
+				<sid>NKC|jn19990004280</sid>
+				<s>XR</s>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>B2Q</s>
+				<sid>B2Q|0000021960</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+				<sid>XR|VIAFWORK22710206</sid>
+				<s>NSK</s>
+				<sid>NSK|000085384</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+			</sources>
+			<title>Visions of Gerard</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+			<title>Vraie blonde, et autres</title>
+		</work>
+		<work>
+			<sources>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>LNB</s>
+				<sid>LNB|LNC10-000029496</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>RERO</s>
+				<sid>RERO|vtls000097908</sid>
+				<s>DNB</s>
+				<sid>DNB|118561561</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>SELIBR</s>
+				<sid>SELIBR|193363</sid>
+			</sources>
+			<title>W drodze / Jack Kerouac. - Warszawa, 1993.</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+			</sources>
+			<title>Wake up : a life of the Buddha</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNF</s>
+				<sid>BNF|11909637</sid>
+				<s>LC</s>
+				<sid>LC|n  80036674</sid>
+				<s>NTA</s>
+				<sid>NTA|06825489X</sid>
+				<s>SUDOC</s>
+				<sid>SUDOC|027325962</sid>
+			</sources>
+			<title>Windblown world : the journals of Jack Kerouac, 1947-1954</title>
+		</work>
+		<work>
+			<sources>
+				<s>NUKAT</s>
+				<sid>NUKAT|n  94204929</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+				<s>NLP</s>
+				<sid>NLP|a11580884</sid>
+			</sources>
+			<title>Włóczędzy Dharmy</title>
+		</work>
+		<work id="VIAF|311002095">
+			<sources>
+				<s>LC</s>
+				<sid>LC|n 2015036132</sid>
+			</sources>
+			<title>Works. Selections</title>
+		</work>
+		<work>
+			<sources>
+				<s>BNC</s>
+				<sid>BNC|a10475400</sid>
+				<s>BNE</s>
+				<sid>BNE|XX915622</sid>
+			</sources>
+			<title>Y los hipopótamos se cocieron en sus tanques</title>
+		</work>
+		<work>
+			<sources>
+				<s>NLR</s>
+				<sid>NLR|RU NLR AUTH 7714549</sid>
+			</sources>
+			<title>Бродяги Дхармы роман</title>
+		</work>
+		<work>
+			<sources>
+				<s>NLR</s>
+				<sid>NLR|RU NLR AUTH 7714549</sid>
+			</sources>
+			<title>В дороге [Роман]</title>
+		</work>
+		<work>
+			<sources>
+				<s>NLI</s>
+				<sid>NLI|000075334</sid>
+			</sources>
+			<title>מגי קסידי : סיפור אהבה</title>
+		</work>
+		<work>
+			<sources>
+				<s>NDL</s>
+				<sid>NDL|00445529</sid>
+				<s>WKP</s>
+				<sid>WKP|Q160534</sid>
+			</sources>
+			<title>路上</title>
+		</work>
+	</titles>
+	<history>
+		<ht recid="BNF|11909637" time="2009-03-03T12:03:17+00:00" type="add"/>
+		<ht recid="DNB|118561561" time="2009-03-03T12:03:24+00:00" type="add"/>
+		<ht recid="LC|n  80036674" time="2009-03-03T12:03:29+00:00" type="add"/>
+		<ht recid="SELIBR|193363" time="2009-03-03T12:03:44+00:00" type="add"/>
+		<ht recid="NKC|jn19990004280" time="2009-05-07T09:10:50+00:00" type="add"/>
+		<ht recid="J9Ulat|000075334" time="2009-05-07T09:10:50+00:00" type="add"/>
+		<ht recid="J9Uheb|000218897" time="2009-05-07T09:10:50+00:00" type="add"/>
+		<ht recid="BNE|XX915622" time="2009-06-15T11:42:49+00:00" type="add"/>
+		<ht recid="NLA|000036129069" time="2009-08-21T09:42:39+00:00" type="add"/>
+		<ht recid="NLIheb|000218897" time="2009-09-21T11:33:11+00:00" type="add"/>
+		<ht recid="PTBNP|118207" time="2009-09-21T11:33:11+00:00" type="add"/>
+		<ht recid="J9Ulat|000075334" time="2009-09-21T11:33:11+00:00" type="delete"/>
+		<ht recid="J9Uheb|000218897" time="2009-09-21T11:33:11+00:00" type="delete"/>
+		<ht recid="NLIlat|000075334" time="2009-09-21T11:33:11+00:00" type="add"/>
+		<ht recid="NUKAT|n  94204929" time="2009-11-11T06:00:16+00:00" type="add"/>
+		<ht recid="LAC|0013C6856" time="2010-02-22T06:44:11+00:00" type="add"/>
+		<ht recid="NII|DA01658116" time="2010-04-23T04:20:35+00:00" type="add"/>
+		<ht recid="RERO|vtls000097908" time="2010-07-26T05:00:14+00:00" type="add"/>
+		<ht recid="NII|DA01658116" time="2010-11-16T05:07:53+00:00" type="delete"/>
+		<ht recid="SUDOC|027325962" time="2011-08-17T04:30:21+00:00" type="add"/>
+		<ht recid="BIBSYS|x90090517" time="2012-02-21T07:28:50+00:00" type="add"/>
+		<ht recid="ICCU|CFIV003274" time="2012-04-23T06:08:51+00:00" type="add"/>
+		<ht recid="NDL|00445529" time="2012-09-21T12:24:30+00:00" type="add"/>
+		<ht recid="BIBSYS|x90090517" time="2012-11-26T09:56:13+00:00" type="delete"/>
+		<ht recid="RERO|vtls000097908" time="2012-11-26T09:56:13+00:00" type="delete"/>
+		<ht recid="ICCU|CFIV003274" time="2012-11-26T09:56:13+00:00" type="delete"/>
+		<ht recid="WKP|Jack_Kerouac" time="2012-11-26T09:56:13+00:00" type="add"/>
+		<ht recid="RERO|vtls000097908" time="2012-11-27T04:00:16+00:00" type="add"/>
+		<ht recid="RERO|vtls000097908" time="2012-12-19T19:11:18+00:00" type="delete"/>
+		<ht recid="NLIheb|000218897" time="2013-01-14T22:09:03+00:00" type="delete"/>
+		<ht recid="NTA|06825489X" time="2013-01-14T22:09:03+00:00" type="add"/>
+		<ht recid="RERO|vtls000097908" time="2013-01-14T22:09:03+00:00" type="add"/>
+		<ht recid="NLIheb|000218897" time="2013-04-17T17:27:37+00:00" type="add"/>
+		<ht recid="NLI|000075334" time="2013-04-17T17:27:37+00:00" type="add"/>
+		<ht recid="NLIheb|000218897" time="2013-05-13T19:14:22+00:00" type="delete"/>
+		<ht recid="NLIlat|000075334" time="2013-05-13T19:14:22+00:00" type="delete"/>
+		<ht recid="NLP|a11580884" time="2013-06-14T19:03:38+00:00" type="add"/>
+		<ht recid="LNB|LNC10-000029496" time="2013-08-19T18:59:48+00:00" type="add"/>
+		<ht recid="ISNI|000000012125127X" time="2013-09-16T16:15:07+00:00" type="add"/>
+		<ht recid="ICCU|CFIV003274" time="2013-11-23T21:33:28+00:00" type="add"/>
+		<ht recid="NSK|000085384" time="2013-12-12T18:02:00+00:00" type="add"/>
+		<ht recid="BNC|a10475400" time="2014-01-15T05:38:27+00:00" type="add"/>
+		<ht recid="DBC|87097968542790" time="2014-04-14T18:18:00+00:00" type="add"/>
+		<ht recid="ISNI|000000037583458X" time="2014-05-14T22:19:01+00:00" type="add"/>
+		<ht recid="DNB|187575096" time="2014-05-14T22:19:01+00:00" type="add"/>
+		<ht recid="NUKAT|n  94204929" time="2014-10-21T12:48:43+00:00" type="delete"/>
+		<ht recid="NUKAT|n  94204929" time="2014-10-27T16:17:29+00:00" type="add"/>
+		<ht recid="WKP|Jack_Kerouac" time="2015-04-14T18:56:54+00:00" type="delete"/>
+		<ht recid="WKP|Q160534" time="2015-04-14T18:56:54+00:00" type="add"/>
+		<ht recid="N6I|vtls000355414" time="2015-05-12T00:14:00+00:00" type="add"/>
+		<ht recid="ISNI|000000037583458X" time="2015-05-12T00:14:00+00:00" type="delete"/>
+		<ht recid="DNB|187575096" time="2015-05-12T00:14:00+00:00" type="delete"/>
+		<ht recid="JPG|500290917" time="2015-09-20T14:54:45+00:00" type="add"/>
+		<ht recid="WKP|Q160534" time="2015-09-20T14:54:45+00:00" type="add"/>
+		<ht recid="WKP|Q160534" time="2015-09-20T14:54:45+00:00" type="delete"/>
+		<ht recid="B2Q|0000021960" time="2015-09-20T14:54:45+00:00" type="add"/>
+		<ht recid="NLR|RU NLR AUTH 7714549" time="2015-11-02T06:25:06.753523+00:00" type="add"/>
+		<ht recid="KRNLK|KAC199634745" time="2015-12-04T18:46:49.623802+00:00" type="add"/>
+	</history>
+	<creationtime>2016-02-15T17:48:43.682454+00:00</creationtime>
+</VIAFCluster>
