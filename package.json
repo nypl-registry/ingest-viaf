@@ -4,8 +4,9 @@
   "description": "Creates VIAF lookup table in the registry ingest database",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "standard && mocha test"
   },
+  "standard": { "ignore" : "test/*"},
   "repository": {
     "type": "git",
     "url": "https://github.com/nypl-registry/ingest-viaf.git"
@@ -30,6 +31,7 @@
   "homepage": "https://github.com/nypl-registry/ingest-viaf",
   "devDependencies": {
     "mocha": "^2.4.5",
-    "should": "^8.2.2"
+    "should": "^8.2.2",
+    "standard": "^6.0.7"
   }
 }
