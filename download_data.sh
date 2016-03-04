@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "***********************************************************************************************"
-echo "This script will download about 115GB of data, make sure there is enough disk space!!!
+echo "This script will download about 115GB of data, make sure there is enough disk space!!!"
 echo "***********************************************************************************************"
 
 
